@@ -45,3 +45,27 @@ alpha-factor-research/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+
+
+Important limitations
+Small and simplified stock universe
+Potential survivorship bias
+Simplified trading-cost assumptions
+No complete sector or risk-factor neutralization
+Educational data source
+Historical performance does not guarantee future results
+Future improvements
+Use a point-in-time historical universe
+Expand the number of securities
+Apply sector-neutral rankings
+Add volatility scaling
+Compare momentum with value and quality factors
+Use Fama–French factor regressions
+Add walk-forward validation
+Disclaimer
+
+This repository is for educational and research purposes only. It does not provide investment advice.
+
+Author
+
+Faten Abdelhaq
